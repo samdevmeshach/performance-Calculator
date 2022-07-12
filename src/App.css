@@ -1,0 +1,30 @@
+
+.container{
+  margin-top: 20px;
+}
+.table{
+  margin-top: 40px;
+}
+.checkbox{
+  position: relative;
+  float: right;
+}
+input[type="checkbox"]{
+  margin: 10px;
+}
+table{
+  max-width: fit-content;
+}
+.url{
+  max-width: 250px;
+  word-wrap:break-word;
+}
+th{
+  text-align: center;
+}
+.nodata{
+  margin-left: 9%;
+}
+select{
+  min-width: 25%!important;
+}
